@@ -1,0 +1,5 @@
+get /reviews?query
+get /games/{gameId}/reviews sau get /reviews?searchText=test&gameId=25
+post /games/{gameId}/reviews
+get /user/{userId}/recommandations sau get /recommandations?userId=998
+stergere modificare recomandari
